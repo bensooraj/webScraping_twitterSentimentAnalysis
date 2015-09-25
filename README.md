@@ -1,4 +1,4 @@
-# Edureka Python Project Documentation -	Ben Sooraj M
+# Edureka Python Project Documentation
 
 ## Problem Statement
 IMDB provides a list of celebrities born on the current date. Below is the link:
