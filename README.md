@@ -1,6 +1,6 @@
 # Edureka Python Project Documentation -	Ben Sooraj M
 
-# Problem Statement
+## Problem Statement
 IMDB provides a list of celebrities born on the current date. Below is the link:
 http://m.imdb.com/feature/bornondate
 
@@ -23,7 +23,7 @@ Hint: Use IMDB scrapping sample example as reference for scraping the mentioned 
 
 Please Note That I Am Using Python 3.4
 
-# Tools and Packages Used
+## Tools and Packages Used
 
 •	Version: Python 3.4 [VERY IMPORTANT]
 •	Tweepy  Tweepy is an open-sourced, hosted on GitHub, and enables Python to communicate with the Twitter platform and use its API. Here's the documentation.
@@ -36,9 +36,9 @@ Please Note That I Am Using Python 3.4
 
 •	Selenium  The webdriver kit emulates a web-browser (I chose FireFox) and executes the JS scripts to load the dynamic  content.
 
-# Challenges Faced during the project
+## Challenges Faced during the project
 
-Tweepy has an issue with Python 3
+### Tweepy has an issue with Python 3
 
 Error message: 
  TypeError: Can't convert 'bytes' object to str implicitly inside: tweepy\streaming.py
@@ -54,7 +54,7 @@ self._buffer += self._stream.read(self._chunk_size).decode('ascii')
 
 and then reinstalled.
 
-The IMDB website has dynamic content:
+### The IMDB website has dynamic content:
 
 Reference: 
 http://fruchter.co/post/53164489086/python-headless-web-browser-scraping-on-amazon
