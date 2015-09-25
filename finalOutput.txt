@@ -1,0 +1,70 @@
+Name of the celebrity: Katie Findlay
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BOTk1MjcyODI3OF5BMl5BanBnXkFtZTcwMTY3NTc5OA@@._V1._CR0,0,1365,2013_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "Premature"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Armie Hammer
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMzI3NTYwMzIxM15BMl5BanBnXkFtZTcwMzI1ODY1NA@@._V1._CR0,0,1363,2010_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "The Lone Ranger"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Jack Black
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMjE2MjI4NTQxN15BMl5BanBnXkFtZTgwMDMyMDg4NTE@._V1._CR56,0,694,1024_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "Kung Fu Panda"
+Overall Sentiment on Twitter: NEGATIVE
+
+
+Name of the celebrity: David Fincher
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1._CR0,0,261,385_SX40_SY59.jpg
+Profession: Director
+Best Work:  "Fight Club"
+Overall Sentiment on Twitter: NEGATIVE
+
+
+Name of the celebrity: Jennifer Coolidge
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMTI3NjYyMzgxNl5BMl5BanBnXkFtZTcwMjgyMzM0Mg@@._V1._CR0,0,266,392_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "American Pie"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Amanda Tapping
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMTY1MjUwOTYyOF5BMl5BanBnXkFtZTgwMjEwNzQ2NjE@._V1._CR177,0,1993,2940_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "Stargate: Continuum"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Jason Priestley
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMjg0MzAyNDc1NF5BMl5BanBnXkFtZTcwNTEwNjI1NA@@._V1._CR226,0,373,550_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "Tombstone"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Eugene Byrd
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMTIzMjQyNjU5M15BMl5BanBnXkFtZTcwMjE0MDMzMQ@@._V1._CR11,0,427,630_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "8 Mile"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Sarah Roemer
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BMTk3OTQ1MzAxMV5BMl5BanBnXkFtZTcwNDIyOTkzMQ@@._V1._CR5,0,290,428_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "Disturbia"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Luis Guzmán
+Celebrity Image: http://ia.media-imdb.com/images/M/MV5BNzYyNjIyOTU2NF5BMl5BanBnXkFtZTcwODk3ODcxMw@@._V1._CR1,0,271,400_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "Boogie Nights"
+Overall Sentiment on Twitter: POSITIVE
+
+
